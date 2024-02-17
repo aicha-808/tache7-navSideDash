@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tache7-navSideDash/static/css/main.9d448ad3.css",
+    "main.js": "/tache7-navSideDash/static/js/main.91ef437d.js",
+    "static/js/592.a7b9bd3f.chunk.js": "/tache7-navSideDash/static/js/592.a7b9bd3f.chunk.js",
+    "index.html": "/tache7-navSideDash/index.html",
+    "main.9d448ad3.css.map": "/tache7-navSideDash/static/css/main.9d448ad3.css.map",
+    "main.91ef437d.js.map": "/tache7-navSideDash/static/js/main.91ef437d.js.map",
+    "592.a7b9bd3f.chunk.js.map": "/tache7-navSideDash/static/js/592.a7b9bd3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d448ad3.css",
+    "static/js/main.91ef437d.js"
+  ]
+}
